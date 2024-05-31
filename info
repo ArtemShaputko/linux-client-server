@@ -1,0 +1,7 @@
+This is simple multithreading server!
+Commands:
+    INFO: show info file
+    ECHO: response with the same message
+    LIST: show files in current directory
+    CD:   change current directory
+    QUIT: quit the server

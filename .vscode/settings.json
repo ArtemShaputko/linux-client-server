@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "client.h": "c",
+        "limits.h": "c",
+        "socket.h": "c",
+        "inet.h": "c",
+        "pthread.h": "c",
+        "dirent.h": "c"
+    }
+}

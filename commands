@@ -1,0 +1,8 @@
+CD src
+LIST
+CD server
+LIST
+INFO
+ECHO Hello world!
+QUIT
+ECHO WTF
