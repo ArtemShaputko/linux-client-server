@@ -1,7 +1,7 @@
 # Simple multithreading linux client and server
 ## Usage: 
-- srv [port] \
-- clnt [host name] [port] \
+- srv [port] 
+- clnt [host name] [port]   
 ## Commands:
 - @[file]: commands from file
 - INFO: show info file
